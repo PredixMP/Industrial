@@ -1,0 +1,6 @@
+PREDIX — SITE V4
+- Mantém os ajustes da V3.
+- CTA/WhatsApp redesenhado como um único cartão integrado.
+- QR Code, chamada, número e link agora formam um único componente clicável.
+- Conteúdo institucional permanece inalterado nesta versão.
+Abra index.html no Chrome ou Edge.
