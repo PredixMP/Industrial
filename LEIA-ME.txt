@@ -1,6 +1,9 @@
-PREDIX — SITE V4
-- Mantém os ajustes da V3.
-- CTA/WhatsApp redesenhado como um único cartão integrado.
-- QR Code, chamada, número e link agora formam um único componente clicável.
-- Conteúdo institucional permanece inalterado nesta versão.
-Abra index.html no Chrome ou Edge.
+PREDIX SITE V6 — INTELLIGENCE
+Atualizações:
+- Menu mobile corrigido: fundo escuro, opções brancas e contraste adequado.
+- Dashboard da seção IA Intelligence redesenhado.
+- Menu lateral demonstrativo: Visão geral, Backlog, Paradas, Indicadores, Assistente IA e Importar dados SAP.
+- Assistente IA com chamada para geração da programação semanal.
+- KPIs: Total de ordens, Ordem mais antiga, Centros de trabalho e Plano executável.
+- Cronograma semanal em formato Gantt com centros de trabalho, ativos, atividades, legenda e resumo de recursos.
+- Mantida a identidade visual e logo da V5 anterior.
